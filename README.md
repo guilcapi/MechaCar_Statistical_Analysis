@@ -41,4 +41,4 @@ Alternative Hypothesis (Ha): MechaCar is not economic to own based on performanc
 
 Factors to test would include cost, city or highway fuel efficiency, and maintenance cost.
 
-A multiple linear regression could be used to determine which factors have the highest correlation to see if can reject or fail to rejct the null hypothesis.
+A multiple linear regression could be used to determine which factors have the highest correlation to see if the null hypothesis can be rejected or will fail to be rejected.
